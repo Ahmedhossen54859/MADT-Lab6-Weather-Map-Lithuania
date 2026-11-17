@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1E88E5</color>
+    <color name="primary_dark">#1565C0</color>
+    <color name="primary_container">#BBDEFB</color>
+    <color name="secondary">#26A69A</color>
+    <color name="secondary_dark">#00796B</color>
+    <color name="accent">#FFA726</color>
+
+    <color name="background">#F5F7FA</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="on_surface">#1A1C1E</color>
+    <color name="on_surface_variant">#5F6368</color>
+    <color name="divider">#E0E0E0</color>
+
+    <color name="error">#D32F2F</color>
+    <color name="success">#388E3C</color>
+
+    <!-- Weather condition indicators -->
+    <color name="weather_clear">#FFA000</color>
+    <color name="weather_clouds">#78909C</color>
+    <color name="weather_rain">#1976D2</color>
+    <color name="weather_snow">#4DD0E1</color>
+    <color name="weather_fog">#9E9E9E</color>
+</resources>
